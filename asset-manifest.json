@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-app-portfolio/static/css/main.46b17075.css",
+    "main.js": "/react-app-portfolio/static/js/main.b63e383b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-app-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/banner.jpg": "/react-app-portfolio/static/media/banner.f989fa207094c8421350.jpg",
+    "static/media/resume.PNG": "/react-app-portfolio/static/media/resume.369b48d9747a6f4d99f2.PNG",
+    "static/media/techblog.PNG": "/react-app-portfolio/static/media/techblog.4ea4ee764477e21f33f4.PNG",
+    "static/media/codequiz.PNG": "/react-app-portfolio/static/media/codequiz.fa88433d548ef6fae0db.PNG",
+    "static/media/workday.PNG": "/react-app-portfolio/static/media/workday.40523034aea9b39bc757.PNG",
+    "static/media/passgen.PNG": "/react-app-portfolio/static/media/passgen.25a8ee4f041e5c0b6822.PNG",
+    "static/media/notetaker.PNG": "/react-app-portfolio/static/media/notetaker.8d428f904caac6c29809.PNG",
+    "static/media/App screen.PNG": "/react-app-portfolio/static/media/App screen.9fb37bc1f8e0cba63399.PNG",
+    "static/media/PROFILE.jpg": "/react-app-portfolio/static/media/PROFILE.e38395b273d3319cb3a1.jpg",
+    "index.html": "/react-app-portfolio/index.html",
+    "main.46b17075.css.map": "/react-app-portfolio/static/css/main.46b17075.css.map",
+    "main.b63e383b.js.map": "/react-app-portfolio/static/js/main.b63e383b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-app-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b17075.css",
+    "static/js/main.b63e383b.js"
+  ]
+}
