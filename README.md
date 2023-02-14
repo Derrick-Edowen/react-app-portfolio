@@ -42,7 +42,7 @@ In order to run this  application, the user must install the required node packa
 
 ## Usage
 [Application Screenshot](./appshot.PNG)
-Github pages deployment:
+Github pages deployment: https://derrick-edowen.github.io/react-app-portfolio/
 
 ## Credits
 N/A
